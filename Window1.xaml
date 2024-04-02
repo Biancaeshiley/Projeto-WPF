@@ -1,0 +1,41 @@
+﻿<Window x:Class="WpfApp2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+
+
+        <Border Grid.Column="0" Background= "#FFD5F7E6" Grid.RowSpan="2"/>
+
+
+
+
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" >
+            <Button Content="Menu" FontSize="16" FontFamily="Jost" Margin="0" Background="#FFD5F7E6" Padding="5" Width="184"/>
+        </StackPanel>
+
+
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Label Content="Escolas" FontSize="16" FontFamily="Jost " HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+            <Label Content="Cursos" FontSize="16" FontFamily="Arial " HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+            <Label Content="Turmas" FontSize="16" FontFamily="Arial " HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+            <Label Content="Alunos" FontSize="16" FontFamily="Arial " HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+            <Label Content="Relatórios" FontSize="16" FontFamily="Arial " HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5"/>
+        </StackPanel>
+
+
+        
+
+
+    </Grid>
+</Window>
