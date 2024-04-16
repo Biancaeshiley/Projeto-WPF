@@ -16,24 +16,13 @@ using System.Windows.Shapes;
 namespace WpfApp2
 {
     /// <summary>
-    /// Interação lógica para MainWindow.xam
+    /// Interação lógica para relatorios.xam
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class relatorios : Page
     {
-        public MainWindow()
+        public relatorios()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Window1  window1 = new Window1();
-            window1.Show();
         }
     }
 }

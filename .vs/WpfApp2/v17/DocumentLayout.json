@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|c:\\users\\2022102020061\\source\\repos\\wpfapp2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|c:\\users\\2022102020061\\source\\repos\\wpfapp2\\relatorios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:relatorios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\alunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:alunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\turmas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:turmas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\escolas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:escolas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|c:\\users\\2022102020061\\source\\repos\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\cursos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:cursos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830CAE0-AF7F-4D3C-B9F2-F63DB1449EC0}|WpfApp2.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,23 +42,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\App.xaml",
-              "RelativeToolTip": "App.xaml",
+              "DocumentIndex": 0,
+              "Title": "relatorios.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\relatorios.xaml",
+              "RelativeDocumentMoniker": "relatorios.xaml",
+              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\relatorios.xaml",
+              "RelativeToolTip": "relatorios.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-26T13:05:18.862Z",
+              "WhenOpened": "2024-04-16T13:53:32.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "alunos.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\alunos.xaml",
+              "RelativeDocumentMoniker": "alunos.xaml",
+              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\alunos.xaml",
+              "RelativeToolTip": "alunos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:47:14.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "turmas.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\turmas.xaml",
+              "RelativeDocumentMoniker": "turmas.xaml",
+              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\turmas.xaml",
+              "RelativeToolTip": "turmas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:42:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "escolas.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\escolas.xaml",
+              "RelativeDocumentMoniker": "escolas.xaml",
+              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\escolas.xaml",
+              "RelativeToolTip": "escolas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:28:32.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cursos.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\cursos.xaml",
+              "RelativeDocumentMoniker": "cursos.xaml",
+              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\cursos.xaml",
+              "RelativeToolTip": "cursos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:22:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAjwDoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:06:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -50,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Window1.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020061\\source\\repos\\WpfApp2\\Window1.xaml",
               "RelativeDocumentMoniker": "Window1.xaml",

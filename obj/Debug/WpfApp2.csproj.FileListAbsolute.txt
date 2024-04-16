@@ -15,3 +15,13 @@ C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\WpfApp2.exe
 C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\WpfApp2.pdb
 C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\Window1.g.cs
 C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\Window1.baml
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\escolas.g.cs
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\escolas.baml
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\cursos.g.cs
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\cursos.baml
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\turmas.g.cs
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\turmas.baml
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\alunos.g.cs
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\alunos.baml
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\relatorios.g.cs
+C:\Users\2022102020061\source\repos\WpfApp2\obj\Debug\relatorios.baml
