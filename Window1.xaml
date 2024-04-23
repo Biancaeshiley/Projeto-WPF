@@ -21,7 +21,7 @@
 
 
         <Label Grid.Row="0" Content="Menu" FontFamily="Arial Black" Foreground="White" HorizontalAlignment="Center" Padding="8" />
-        <Label Grid.Column="1" Content="Informações de Cadastro" FontFamily="Arial Black" FontSize="15" Foreground="Black" HorizontalAlignment="Center" Padding="8" />
+        <Label Grid.Column="1" Content="Informações de Cadastro" FontFamily="Arial Black" FontSize="15" Foreground="Black" HorizontalAlignment="Center" Padding="5" />
 
         <Border Grid.Column="0" Grid.Row="1" Background="#FFD5F7E6"/>
 

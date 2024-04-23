@@ -10,34 +10,40 @@
 
     <Grid>
         <Border Background="White"/>
-        <StackPanel Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5">
 
-            <Label  Content="Nome:" FontFamily="Arial Black" Margin="10" FontSize="15"/>
-            <TextBox Margin="100 -32 60 30" />
+            <Label  Content="Nome" FontFamily="Arial Black" FontSize="15"/>
+            <TextBox  Width="490" HorizontalAlignment="Left" />
 
-            <Label Content="CPF:" FontFamily="Arial Black" FontSize="15" Width="120" Margin="10 -20 540 0" />
-            <TextBox Margin="100 -25 60 5"/>
+            <Label Content="CPF" FontFamily="Arial Black" FontSize="15"/>
+            <TextBox  Width="490" HorizontalAlignment="Left"/>
 
-            <Label Content="RG:" FontFamily="Arial Black" FontSize="15" Width="127" Margin="10 0 485 60"/>
-            <TextBox Margin="100 -84 60 66"/>
+            <Label Content="RG" FontFamily="Arial Black" FontSize="15"/>
+            <TextBox  Width="490" HorizontalAlignment="Left"/>
 
-            <Label Content="Endereço:" FontFamily="Arial Black" FontSize="15" Width="100" HorizontalAlignment="Left" Margin="10 -60 0 60"/>
-            <TextBox Margin="100 -82 60 80" />
+            <Label Content="Endereço" FontFamily="Arial Black" FontSize="15"  HorizontalAlignment="Left" />
+            <TextBox  Width="490" HorizontalAlignment="Left"/>
 
-            <Label Content="Município:" FontFamily="Arial Black" FontSize="15" Width="100" HorizontalAlignment="Left" Margin="10 -75 0 60"/>
-            <TextBox Margin="100 -82 60 80"/>
+            <Label Content="Município" FontFamily="Arial Black" FontSize="15"  HorizontalAlignment="Left"/>
+            <TextBox  Width="490" HorizontalAlignment="Left"/>
 
-            <Label Content="UF:" FontFamily="Arial Black" FontSize="15" Width="40" HorizontalAlignment="Left" Margin="10 -75 0 60"/>
-            <TextBox Margin="100 -82 60 80"/>
+            <Label Content="UF" FontFamily="Arial Black" FontSize="15"  HorizontalAlignment="Left" />
+            <TextBox Width="490" HorizontalAlignment="Left"/>
 
-            <Label Content="Telefone:" FontFamily="Arial Black" FontSize="15" Width="90" HorizontalAlignment="Left" Margin="10 -75 0 60" />
-            <TextBox Margin="100 -85 60 80"/>
+            <Label Content="Telefone" FontFamily="Arial Black" FontSize="15" HorizontalAlignment="Left"  />
+            <TextBox  Width="490" HorizontalAlignment="Left"/>
 
-            <Label Content="Matrícula:" FontFamily="Arial Black" FontSize="15" Width="110" HorizontalAlignment="Left" Margin="10 -75 0 60"/>
-            <TextBox Margin="100 -84 60 66"/>
+            <Label Content="Matrícula" FontFamily="Arial Black" FontSize="15"  HorizontalAlignment="Left"/>
+            <TextBox  Width="490" HorizontalAlignment="Left"/>
 
         </StackPanel>
-        <Button Grid.Column="2" Grid.Row="2" Content="Cancelar" FontFamily="Arial Black" Background="#f06b4b"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0 0 20 20" Width="100" Height="30"/>
-        <Button Grid.Column="2" Grid.Row="2" Content="Cadastrar" FontFamily="Arial Black" Background="#FFD5F7E6"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0 0 130 20" Width="100" Height="30"/>
+        
+        <Button Grid.Column="2" Grid.Row="2" Content="Cadastrar" FontFamily="Arial Black" Background="#FFD5F7E6"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0 0 5 10" Width="100" Height="30">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="15"/>
+                </Style>
+            </Button.Resources>
+        </Button>
     </Grid>
 </Page>
